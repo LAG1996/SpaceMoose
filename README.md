@@ -16,4 +16,8 @@ Luis Angel Garcia (Me) - Boss AI and Collision
 
 Jessie Reyna - Physics and Projectiles
 
-Uncredited - Artwork and Animations
+Artwork and Animations were done by an art student at UTRGV who was gracious enough to sit through our meetings, where we talked a lot more about code than actual art!
+
+## Side Note
+
+I thought this code was lost, but it's been preserved for all this time in some SVN repo, hidden in darkness. There is another project that I worked on with a different set of students, which will be linked here.

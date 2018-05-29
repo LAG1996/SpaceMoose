@@ -20,4 +20,4 @@ Artwork and Animations were done by an art student at UTRGV who was gracious eno
 
 ## Side Note
 
-I thought this code was lost, but it's been preserved for all this time in some SVN repo, hidden in darkness. There is another project that I worked on with a different set of students, which will be linked here.
+I thought this code was lost, but it's been preserved for all this time in some SVN repo, hidden in darkness. This project was developed for the same class as [Fireball](https://github.com/LAG1996/FireballGame).
